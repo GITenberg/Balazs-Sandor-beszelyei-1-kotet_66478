@@ -1,11 +1,16 @@
 _repo: Balazs-Sandor-beszelyei-1-kotet_66478
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Balázs, Sándor
     gutenberg_agent_id: '53830'
     url: http://www.gutenberg.org/2009/agents/53830
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66478#Balazs-Sandor-beszelyei-1-kotet
 gutenberg_issued: '2021-10-06'
 identifiers:
   gutenberg: '66478'
